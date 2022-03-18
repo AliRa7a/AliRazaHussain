@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ali Raza
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Django Projects
+- 👀 I’m interested in Web Development
 - 📫 How to reach me alirazabinhussain@gmail.com
 
 <!---
